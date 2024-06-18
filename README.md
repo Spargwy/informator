@@ -1,1 +1,1 @@
-# intelligencer
+# informator
